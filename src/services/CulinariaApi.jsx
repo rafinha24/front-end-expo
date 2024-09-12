@@ -1,6 +1,7 @@
 export const getCulinariaData = async (nome) => {
     try{
-        const response = await fetch(`http://localhost/api/receita/${nome}`);
+        //mude esse fetch para o link que o jorge pedir
+        const response = await fetch(`http:/most/api/receita/${nome}`);
         const data = await response.json();
         return data;
     } catch(error){
