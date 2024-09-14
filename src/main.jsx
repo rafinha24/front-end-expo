@@ -48,6 +48,14 @@ const Culinaria = () => {
               <li>2. TORTA DE LIMÃO</li>
               <li>3. PUDIM DE LEITE CONDENSADO</li>
               <li>4. BROWNIE</li>
+              <li>5. BRIGADEIRO</li>
+              <li>6. PIPOCA DOCE</li>
+              <li>7. PALHA ITALIANA</li>
+              <li>8. COOKIES</li>
+              <li>9. BOLO DE CHOCOLATE</li>
+              <li>10. BOMBOM DE UVA </li>
+              <li>11. BOMBOM DE MORANGO DE TRAVESSA</li>
+              <li>12. PUDIM DE SORVETE</li>
             </ul>
           </div>
 
